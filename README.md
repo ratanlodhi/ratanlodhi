@@ -60,9 +60,7 @@
 <h3 align="left">🚀 &nbsp;Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/danavath-sunil-rathod-683853202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/sunil._.rathod4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-  <a href="https://github.com/sunilrathod098" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/806/394/png-clipart-blue-animal-logo-github-icon-github-blue-world-thumbnail.png" alt="instagram" height="50" width="50" /></a>
-  <a href="https://sunilrathod-dashboard-sunilrathod098s-projects.vercel.app/" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/1007/416/png-clipart-briefcase-computer-icons-business-bag-portfolio-blue-text-thumbnail.png" alt="instagram" height="50" width="50" /></a>
+  <a href="https://github.com/ratanlodhi" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/806/394/png-clipart-blue-animal-logo-github-icon-github-blue-world-thumbnail.png" alt="github" height="50" width="50" /></a>
 </p>
 <hr/>
 
@@ -108,10 +106,10 @@
 <br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunilrathod098&show_icons=true&locale=en&layout=compact" alt="ratanlodhi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ratanlodhi&show_icons=true&locale=en&layout=compact" alt="ratanlodhi" /></p>
 
 <p>&nbsp;.
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sunilrathod098&show_icons=true&locale=en" alt="GitHub Stats for ratanlodhi" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ratanlodhi&show_icons=true&locale=en" alt="GitHub Stats for ratanlodhi" />
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&width=800&color=gradient&reversal=false&section=footer" alt="Footer Wave" />
