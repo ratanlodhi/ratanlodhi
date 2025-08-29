@@ -108,10 +108,10 @@
 <br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunilrathod098&show_icons=true&locale=en&layout=compact" alt="sunilrathod098" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunilrathod098&show_icons=true&locale=en&layout=compact" alt="ratanlodhi" /></p>
 
 <p>&nbsp;.
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sunilrathod098&show_icons=true&locale=en" alt="GitHub Stats for sunilrathod098" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sunilrathod098&show_icons=true&locale=en" alt="GitHub Stats for ratanlodhi" />
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&width=800&color=gradient&reversal=false&section=footer" alt="Footer Wave" />
